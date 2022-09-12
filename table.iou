@@ -1,0 +1,18 @@
+<!DOC TYPE html>
+<html>
+  <head>
+     <title> My javascript projects and a bit of html </title>
+    <h1> This is a collection of my projects done in java script</h1>
+    <table> 
+       <thead>
+        <tr>
+          <th> project </th>
+          <th> date </th>
+        </tr>
+       </thead>
+       <tbody>
+        <tr>
+          <td> <a href= "https://hellosmallkat.github.io/" My website> </td>
+          <td> 9/12/2022 </td>
+        </tr>
+       </tbody>
